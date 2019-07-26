@@ -1,2 +1,2 @@
 # probando
- Probando GitHub Desktop
+ Probando GitHub Desktop con Atom
